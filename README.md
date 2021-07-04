@@ -219,7 +219,6 @@ Used dataset to train the model: HuSHem https://data.mendeley.com/datasets/tt3yj
 
 Used image from google in this notebook: https://advancedfertility.com/wp-content/uploads/sites/8/2020/09/normal-sperm.jpg
 
+## Accuracy:     
 
-```
-
-```
+Accuracy is low due to dataset only containes 219 images😔
